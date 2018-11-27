@@ -1,3 +1,5 @@
+[![success](https://img.shields.io/badge/build-success-green.svg)](https://api.github.com/repos/sedevops/drone-test) [![Managed by PushTrain](https://img.shields.io/badge/managed_by-PushTrain-purple.svg)](https://swiftengine.io)
+
 [![red](https://img.shields.io/badge/build-red-red.svg)](https://api.github.com/repos/sedevops/drone-test)[![Managed by PushTrain](https://img.shields.io/badge/managed_by-PushTrain-purple.svg)](https://swiftengine.io)
 
 [![red](https://img.shields.io/badge/build-red-red.svg)](https://api.github.com/repos/sedevops/drone-test)
